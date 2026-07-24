@@ -49,13 +49,13 @@ This project is an interactive Power BI dashboard developed to analyze Mercedes-
 ## 📷 Dashboard Preview
 
 ### 🌍 Geographic Analysis
-![Geographic Analysis](dashboard1.png.jpeg)
+![Geographic Analysis](dashboard1.png)
 
 ### 📈 Sales & Performance Analysis
-![Sales & Performance Analysis](dashboard2.png.jpeg)
+![Sales & Performance Analysis](dashboard2.png)
 
 ### 🚘 Model & Category Trends
-![Model & Category Trends](dashboard3.png.jpeg)
+![Model & Category Trends](dashboard3.png)
 
 ---
 
